@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Stock App</string>
+    <string name="enter_username" translatable="false">Enter Username</string>
+    <string name="enter_password" translatable="false">Enter Password</string>
+    <string name="login" translatable="false">लॉगिन</string>
+
+
+    <string name="nav_open" translatable="false">Open Nav</string>
+    <string name="nav_close" translatable="false">Close Nav</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="channel_id" translatable="false">stock-channel</string>
+    <string name="channel_name" translatable="false">stock</string>
+
+    <string name="choose_your_language">भाषा निवडा</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="marathi">मराठी</string>
+
+    <string name="active">Active</string>
+    <string name="in_active">In-Active</string>
+    <string name="submit">Submit</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="product_stock">Product Stock</string>
+    <string name="select_status">Select Status :</string>
+    <string name="shopkeeper_name">Shopkeeper Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="phone_no">Phone No</string>
+</resources>
